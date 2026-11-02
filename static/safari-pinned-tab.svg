@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="#000000">
+  <!-- orca body -->
+  <ellipse cx="45" cy="58" rx="37" ry="14"/>
+  <!-- dorsal fin -->
+  <path d="M42 46 C46 24 58 24 62 46 Z"/>
+  <!-- tail fluke -->
+  <path d="M78 58 L98 45 L90 58 L98 71 Z"/>
+  <!-- pectoral fin -->
+  <path d="M36 68 L45 85 L53 69 Z"/>
+</svg>
